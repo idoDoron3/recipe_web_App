@@ -24,6 +24,9 @@ pnpm-debug.log*
 # Ignore any .pptx files in the server (if applicable)
 *.pptx
 
+readmeimages/
+
+
 # Ignore specific routes file (uncomment if needed)
 #codes/routes/recipes.js
 #codes\routes\recipes.js
