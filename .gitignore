@@ -1,0 +1,32 @@
+# Global ignores for both client and server
+.DS_Store
+node_modules
+.env
+.vscode
+
+# Ignore specific environment and log files (client and server)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files for client
+.env.local
+.env.*.local
+
+# Editor directories and files (client and server)
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore any .pptx files in the server (if applicable)
+*.pptx
+
+# Ignore specific routes file (uncomment if needed)
+#codes/routes/recipes.js
+#codes\routes\recipes.js
+
+# Optional: Uncomment if you want to ignore the dist/ build folder for client production
+#/dist

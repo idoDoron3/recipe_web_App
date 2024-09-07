@@ -1,0 +1,41 @@
+[
+  {
+    "id": 4,
+    "image": "assets/mocks/family_recipes_photoes/sabich.jpg",
+    "title": "Sabich",
+    "readyInMinutes": 45,
+    "aggregateLikes": 250,
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "summary": "A classic Israeli-Iraqi sandwich made with fried eggplant, hard-boiled eggs, and various fillings.",
+    "maker": "Mom",
+    "madeWhen": "Friday Lunch"
+  },
+  {
+    "id": 5,
+    "image": "assets/mocks/family_recipes_photoes/kubbeh_soup.jpg",
+    "title": "Kubbeh Soup",
+    "readyInMinutes": 120,
+    "aggregateLikes": 300,
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "summary": "A flavorful beet-based soup with meat-filled dumplings, perfect for Shabbat dinners.",
+    "maker": "Grandma",
+    "madeWhen": "Shabbat Dinner"
+  },
+  {
+    "id": 6,
+    "image": "assets/mocks/family_recipes_photoes/sfenj.jpg",
+    "title": "Sfenj (Moroccan Donuts)",
+    "readyInMinutes": 90,
+    "aggregateLikes": 180,
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "summary": "A popular Moroccan fried dough treat, often served during Hanukkah.",
+    "maker": "Grandpa",
+    "madeWhen": "Hanukkah"
+  }
+]
